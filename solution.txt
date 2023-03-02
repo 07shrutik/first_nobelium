@@ -1,0 +1,2 @@
+git stash apply does is,it is used to undo the modified changes and it stores the modified changes in temporary memory
+git stash pop dos similar to git stash apply but it does not storremovesodified changes in temporary memory once we use it. 
